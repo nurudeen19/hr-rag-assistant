@@ -1,0 +1,108 @@
+Section 1: Leave Policy
+- Full-time employees are entitled to 20 paid vacation days per year.
+- Sick leave is unlimited but requires a doctor’s note if more than 3 consecutive days are taken.
+- Parental leave is available for up to 12 weeks with partial pay.
+
+Section 2: Working Hours
+- Standard working hours are 9 AM to 5 PM, Monday through Friday.
+- Flexible working arrangements may be approved by a direct manager.
+- Overtime must be pre-approved and will be compensated at 1.5x the normal hourly rate.
+
+Section 3: Employee Benefits
+- Health insurance is provided through CompanyCare, covering employees and their dependents.
+- A retirement savings plan with 5% company matching is available.
+- Employees have access to free professional development courses on the company’s Learning Portal.
+
+Section 4: Code of Conduct
+- Employees are expected to maintain professional behavior at all times.
+- Harassment and discrimination of any kind will not be tolerated.
+- Company devices must be used responsibly and in compliance with IT security policies.
+
+Section 5: Employee Directory
+
+1. **Alice Johnson – HR Manager**
+   - Joined the company in March 2016.
+   - 12 years of experience in Human Resources.
+   - Has received 2 promotions since joining.
+   - Specializes in recruitment strategy and employee relations.
+   - Holds a CIPD Level 7 Diploma in HR Management.
+
+2. **Brian Mensah – Software Engineer**
+   - Joined the company in July 2019.
+   - 6 years of software development experience.
+   - Promoted once (from Junior Engineer in 2021).
+   - Focuses on backend systems (Python, Node.js).
+   - Contributor to the firm’s API standardization initiative.
+
+3. **Clara Lee – Product Designer**
+   - Joined in January 2020.
+   - 8 years of product and UX design experience.
+   - Promoted once (to Senior Designer in 2022).
+   - Expert in accessibility compliance (WCAG).
+   - Led redesign of the company’s flagship mobile app.
+
+4. **David Osei – Customer Support Lead**
+   - Joined in September 2017.
+   - 10 years of experience in customer service.
+   - 2 promotions (Team Lead in 2019, Support Lead in 2021).
+   - Known for implementing the company’s first SLA tracking system.
+   - Certified in ITIL Foundation for service management.
+
+5. **Elena Martinez – Finance Officer**
+   - Joined in April 2018.
+   - 9 years of finance and accounting experience.
+   - Promoted once (to Finance Officer in 2020).
+   - Manages payroll, expense reports, and budgeting.
+   - ACCA certified accountant.
+
+6. **Farouk Ibrahim – Data Analyst**
+   - Joined in June 2021.
+   - 5 years of data analytics experience.
+   - No promotions yet.
+   - Skilled in SQL, Python, and Tableau.
+   - Built the firm’s customer churn prediction model.
+
+7. **Grace Williams – Marketing Specialist**
+   - Joined in November 2019.
+   - 7 years of marketing experience.
+   - 1 promotion (Associate → Specialist in 2022).
+   - Runs campaigns across social media and email.
+   - Holds a Google Digital Marketing Certificate.
+
+8. **Henry Boateng – IT Administrator**
+   - Joined in August 2015.
+   - 14 years of IT administration experience.
+   - 3 promotions (most recently in 2022).
+   - Oversees cybersecurity, hardware, and software systems.
+   - Holds CompTIA Security+ and AWS SysOps certifications.
+
+Section 6: Remote Work Policy
+   - The company supports flexible remote work arrangements for eligible employees whose roles can be effectively performed outside the office.
+   - Remote work may be full-time, part-time, or hybrid, depending on departmental needs and manager approval.
+   - Employees must have completed at least six months of continuous service before becoming eligible for remote work, unless otherwise approved by HR.
+   - All remote employees are expected to maintain reliable internet connectivity, a safe and distraction-free workspace, and uphold data security protocols at all times.
+
+How to Apply for Remote Work
+
+1. Submit a Remote Work Request Form through the HR portal under “Work Arrangements.”
+2. The form should include:
+   - Proposed schedule (days or hours to be worked remotely).
+   - Reason for the request (e.g., relocation, work-life balance, health).
+   - Confirmation that the employee can meet role expectations remotely.
+3. The request is reviewed by the employee’s direct manager and the HR Manager (Alice Johnson) for final approval.
+4. Employees will be notified of the decision within 10 business days of submission.
+
+Remote Work Expectations
+
+1. Employees must be online and reachable during standard working hours (9 AM – 5 PM) unless otherwise agreed upon.
+2. Performance evaluations and deliverables remain the same for remote and on-site staff.
+3. Meetings and collaboration sessions may still require virtual attendance via approved tools (e.g., Google Meet, Slack, or Zoom).
+4. Company-issued equipment (laptops, peripherals) must be handled responsibly and returned upon termination of employment or change in status.
+
+Additional Notes
+
+1. Temporary remote work arrangements (due to travel, family, or health emergencies) can be requested for up to 30 days without going through the full application process.
+2. HR reserves the right to revoke remote work privileges if productivity, communication, or security issues are identified.
+3. Employees approved for remote work are encouraged to visit the office for quarterly team meetups and company-wide events when feasible.
+
+
