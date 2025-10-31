@@ -328,10 +328,8 @@
 
 ## 📞 Need Help?
 
-- **Slack/Discord**: Join our community chat
-- **Office Hours**: Weekly mentoring sessions
+- **Office Hours**: Weekly mentoring sessions, can be scheduled via linkedin
 - **GitHub Discussions**: Ask questions and share ideas
-- **Documentation**: Check the wiki for detailed guides
 
 ---
 
